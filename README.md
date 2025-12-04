@@ -1,4 +1,4 @@
-# 프로젝트 미션 9 – FashionMNIST Conditional GAN (cGAN)
+# FashionMNIST Conditional GAN (cGAN)
 
 ## 0. 프로젝트 개요
 
